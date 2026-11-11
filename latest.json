@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "11.0.5",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v11.0.5/mypetsphone-11.0.5.apk",
-  "notes": "울음을 들으면 바로 보호자에게 알림(서버 3곳). 진짜 새·쥐·고양이 소리로 아이를 폰 앞으로 부르고, 오면 사진을 바로 보내요. 놀이는 유튜브 고양이 게임 영상. 사람 말 소리 없음. 안드로이드 9 업데이트 오류 수정.",
-  "sha256": "4f92ed7288f0ff95274e9b87d596aafbd2a6abe87d3d01906653f3bc562b7939"
+  "versionCode": 6,
+  "versionName": "11.0.6",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v11.0.6/mypetsphone-11.0.6.apk",
+  "notes": "사진·만화를 누르면 크게 보기(두 손가락 확대, 저장, 공유). 고양이가 또렷하게 찍혔을 때만 사진·만화를 보내요(흐리거나 어둡거나 고양이 없으면 안 보냄). 더 높은 해상도, 자동 초점·노출. 답장은 고양이 소리로 전해요.",
+  "sha256": "361146171fde8007100f4de433f0aac614b672497eb423ce0c2b1285f19b3cef"
 }
