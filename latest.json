@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "11.0.4",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v11.0.4/mypetsphone-11.0.4.apk",
-  "notes": "펫폰이 항상 아이용 놀이 화면을 보여 주고, 고양이 말로 자주 말을 걸어요. 대답하면 보호자에게 영상통화. 보호자 답장도 고양이 말로. '지금 놀아주기' 버튼, 마이크 감도 개선.",
-  "sha256": "ddba254191cd3177f2991925ec25df77ffbba77de1de999668eb0e962dbc466f"
+  "versionCode": 5,
+  "versionName": "11.0.5",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v11.0.5/mypetsphone-11.0.5.apk",
+  "notes": "울음을 들으면 바로 보호자에게 알림(서버 3곳). 진짜 새·쥐·고양이 소리로 아이를 폰 앞으로 부르고, 오면 사진을 바로 보내요. 놀이는 유튜브 고양이 게임 영상. 사람 말 소리 없음. 안드로이드 9 업데이트 오류 수정.",
+  "sha256": "4f92ed7288f0ff95274e9b87d596aafbd2a6abe87d3d01906653f3bc562b7939"
 }
