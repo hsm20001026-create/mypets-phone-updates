@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "11.0.3",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v11.0.3/mypetsphone-11.0.3.apk",
-  "notes": "두 폰 연결 수정: 연결 신호를 서버 3곳 모두로 보내고, 펫폰이 먼저 '살아 있어' 신호를 남겨요. 앱을 안 열어도 자동 업데이트를 확인해요.",
-  "sha256": "d1814f41d1ba20ae60256ab362fb07a9bed7f0aae4f05420e6532e5fd533302d"
+  "versionCode": 4,
+  "versionName": "11.0.4",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v11.0.4/mypetsphone-11.0.4.apk",
+  "notes": "펫폰이 항상 아이용 놀이 화면을 보여 주고, 고양이 말로 자주 말을 걸어요. 대답하면 보호자에게 영상통화. 보호자 답장도 고양이 말로. '지금 놀아주기' 버튼, 마이크 감도 개선.",
+  "sha256": "ddba254191cd3177f2991925ec25df77ffbba77de1de999668eb0e962dbc466f"
 }
