@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "11.0.1",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v11.0.1/mypetsphone-11.0.1.apk",
-  "notes": "마이펫'S 폰 첫 버전",
-  "sha256": "683301831ec7330560d37b8f202e74295592c4489bb94a06a6aa0d49d4a6769e"
+  "versionCode": 2,
+  "versionName": "11.0.2",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v11.0.2/mypetsphone-11.0.2.apk",
+  "notes": "연결 안정화(서버 3곳·연결 확인), 아이와 대화 화면, 놀이 만화, 외로울 때 먼저 전화, 집에 오면 반겨 주는 만화, 낮잠 사진, 오늘의 하이라이트 영상, 유튜브 자동 선택, 조용한 시간",
+  "sha256": "3fb6c0e16dfb7e2a424c8e460dcff5f8ef13c5e348881b5a76f2389526f73ecb"
 }
