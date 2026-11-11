@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "11.0.6",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v11.0.6/mypetsphone-11.0.6.apk",
-  "notes": "사진·만화를 누르면 크게 보기(두 손가락 확대, 저장, 공유). 고양이가 또렷하게 찍혔을 때만 사진·만화를 보내요(흐리거나 어둡거나 고양이 없으면 안 보냄). 더 높은 해상도, 자동 초점·노출. 답장은 고양이 소리로 전해요.",
-  "sha256": "361146171fde8007100f4de433f0aac614b672497eb423ce0c2b1285f19b3cef"
+  "versionCode": 7,
+  "versionName": "11.0.7",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v11.0.7/mypetsphone-11.0.7.apk",
+  "notes": "펫폰 화면이 멈추던 문제 수정(기본 화면 터치·뒤로·홈 가능, 홈을 누르면 10분 동안 다시 안 뜸). 카메라 오류 방지. 아이가 폰을 건드리면 사진과 함께 알려 줘요. 사진·만화 크게 보기·저장·공유. 고양이가 또렷할 때만 사진 보내기.",
+  "sha256": "6ed8a1a40f27d9d5aae3c96babacd3067fc20b88b415af319a0917f02216f0a4"
 }
