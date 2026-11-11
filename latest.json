@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "11.0.8",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v11.0.8/mypetsphone-11.0.8.apk",
-  "notes": "펫폰 화면 멈춤 수정(기본 화면 터치·뒤로·홈 가능, 홈 누르면 10분 동안 다시 안 뜸), 카메라 오류 방지, 아이가 폰을 건드리면 사진과 함께 알림, 유튜브는 가로 화면으로, 사진·만화 크게 보기·저장·공유, 고양이가 또렷할 때만 사진 보내기.",
-  "sha256": "c60a87436b35f517f0f836696c5064e21201c7b019ef324ec12d35259f067778"
+  "versionCode": 9,
+  "versionName": "11.0.9",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v11.0.9/mypetsphone-11.0.9.apk",
+  "notes": "놀이 시간에 유튜브 고양이 게임 영상이 바로 나와요(안드로이드 9 재생 개선, 안 나오면 8초 뒤 다음 영상). 펫폰이 낸 소리를 아이 울음으로 착각해 알림 보내던 문제 수정. 펫폰 화면 멈춤 수정, 폰 건드림 사진, 유튜브 가로 화면, 사진 크게 보기.",
+  "sha256": "eac60da9ee63fe0c7aef28d61275828f8ffa593f7de532e33fca0a3f63fface4"
 }
