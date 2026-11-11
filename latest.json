@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "11.0.2",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v11.0.2/mypetsphone-11.0.2.apk",
-  "notes": "연결 안정화(서버 3곳·연결 확인), 아이와 대화 화면, 놀이 만화, 외로울 때 먼저 전화, 집에 오면 반겨 주는 만화, 낮잠 사진, 오늘의 하이라이트 영상, 유튜브 자동 선택, 조용한 시간",
-  "sha256": "3fb6c0e16dfb7e2a424c8e460dcff5f8ef13c5e348881b5a76f2389526f73ecb"
+  "versionCode": 3,
+  "versionName": "11.0.3",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v11.0.3/mypetsphone-11.0.3.apk",
+  "notes": "두 폰 연결 수정: 연결 신호를 서버 3곳 모두로 보내고, 펫폰이 먼저 '살아 있어' 신호를 남겨요. 앱을 안 열어도 자동 업데이트를 확인해요.",
+  "sha256": "d1814f41d1ba20ae60256ab362fb07a9bed7f0aae4f05420e6532e5fd533302d"
 }
