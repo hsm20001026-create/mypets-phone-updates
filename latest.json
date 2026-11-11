@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "11.0.9",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v11.0.9/mypetsphone-11.0.9.apk",
-  "notes": "놀이 시간에 유튜브 고양이 게임 영상이 바로 나와요(안드로이드 9 재생 개선, 안 나오면 8초 뒤 다음 영상). 펫폰이 낸 소리를 아이 울음으로 착각해 알림 보내던 문제 수정. 펫폰 화면 멈춤 수정, 폰 건드림 사진, 유튜브 가로 화면, 사진 크게 보기.",
-  "sha256": "eac60da9ee63fe0c7aef28d61275828f8ffa593f7de532e33fca0a3f63fface4"
+  "versionCode": 10,
+  "versionName": "11.0.10",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v11.0.10/mypetsphone-11.0.10.apk",
+  "notes": "펫폰이 설치 버튼 없이 스스로 업데이트(펫폰에서 '자동 업데이트(접근성)' 한 번 켜기). 부르는 소리는 항상 유튜브 고양이 영상(가로·전체 화면)과 함께. 사진 방향 자동으로 바로잡기, 폰 거치 팁.",
+  "sha256": "5e63467e9faf3c640df1a7418bb35805bdb38da5953d9b9b4c8d4913a9ff99ab"
 }
