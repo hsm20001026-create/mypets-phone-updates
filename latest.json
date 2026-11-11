@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "11.0.10",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v11.0.10/mypetsphone-11.0.10.apk",
-  "notes": "펫폰이 설치 버튼 없이 스스로 업데이트(펫폰에서 '자동 업데이트(접근성)' 한 번 켜기). 부르는 소리는 항상 유튜브 고양이 영상(가로·전체 화면)과 함께. 사진 방향 자동으로 바로잡기, 폰 거치 팁.",
-  "sha256": "5e63467e9faf3c640df1a7418bb35805bdb38da5953d9b9b4c8d4913a9ff99ab"
+  "versionCode": 11,
+  "versionName": "11.0.11",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v11.0.11/mypetsphone-11.0.11.apk",
+  "notes": "펫폰 발열을 크게 줄였어요: 쉬는 화면은 저절로 꺼지고, 카메라는 필요할 때만 잠깐, 영상은 끝나면 완전히 멈춤. 40℃ 넘으면 카메라·영상 쉬고, 43℃ 넘으면 최소 모드. 30분마다 살아있음 신호, 멈추면 자동으로 다시 켜요.",
+  "sha256": "1dad8b1199e16591f72d6d53cd94b14b67b715ea6d57e51b8ae9a7988962554e"
 }
