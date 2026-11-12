@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "12.0.3",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.3/mypetsphone-12.0.3.apk",
-  "notes": "울음 감정 분석을 새로 만들었어요(불편해요만 오던 문제 해결), 냥이 말이 더 다양하고 빨리 와요, 빠른 답장 30개와 누르고 말하기, 보고창은 ⓘ를 눌러 보기",
-  "sha256": "39456fe8275ec5b046dc2ef0eb7907da5d031b8d80f81abc98e840fbdeeb2449"
+  "versionCode": 15,
+  "versionName": "12.0.4",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.4/mypetsphone-12.0.4.apk",
+  "notes": "알림 소리가 아기 고양이 울음으로 바뀌었어요, 화장실 물소리는 이제 무시해요",
+  "sha256": "f4f717b303fdac193f39704bc090e5ae4de9c8dd5ec27ea4787cd85d24ad5bf7"
 }
