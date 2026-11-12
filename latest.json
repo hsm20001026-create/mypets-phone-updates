@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "12.0.11",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.11/mypetsphone-12.0.11.apk",
-  "notes": "영상통화 화면이 더 크게, 냥이가 직접 말하는 말투로 바뀌었어요",
-  "sha256": "53b52bb4fdf49c9a382f59dca5732adaebc5de62cb5a67da59dbd1b4fd637a80"
+  "versionCode": 23,
+  "versionName": "12.0.12",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.12/mypetsphone-12.0.12.apk",
+  "notes": "잠시 끄기 중엔 알림이 안 와요, 냥이 말만 알림으로, 새 놀아주기 버튼(레이저·쥐 사냥·뽀뽀·지금 모습·내 목소리), 통화 때 얼굴이 크게",
+  "sha256": "f21fd466b67308852fc9082077a075ca15596fac3550ff31fec9c7108e067ee8"
 }
