@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "12.0.6",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.6/mypetsphone-12.0.6.apk",
-  "notes": "알림 소리를 짧고 귀여운 아기 고양이 냥냥 소리로 바꿨어요",
-  "sha256": "806aca79c09b93a3eb3e30b2ff43ccb5ea248fa432940787a30fd297770fdcbe"
+  "versionCode": 18,
+  "versionName": "12.0.7",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.7/mypetsphone-12.0.7.apk",
+  "notes": "영상통화 때 화면이 밝은 라이트가 돼서 얼굴이 잘 보여요 (주인폰은 라이트 끄기 버튼)",
+  "sha256": "bf9a07aa3dfd20709e990a1d26c717dbd6677453f8d60f050c8da0bcf5a61113"
 }
