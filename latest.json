@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "12.0.14",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.14/mypetsphone-12.0.14.apk",
-  "notes": "놀이 화면 버튼이 바로 열려요, 크게 3번 울면 영상통화, 폰 놀이 멈춤 버튼, 호칭·아이 정보 고르기",
-  "sha256": "9ee28d7fe769b1e662f190f54c70bd768e7dfb1dc951599b4afacb3a4d60cb2e"
+  "versionCode": 26,
+  "versionName": "12.0.15",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.15/mypetsphone-12.0.15.apk",
+  "notes": "대화와 마지막 말을 한 카드로 합치고 사진을 더 크게, 펫폰을 만지거나 보고 있어도 업데이트가 바로 설치돼요",
+  "sha256": "8527d5bcd499725337ca01867e21540f39ef442074d5f0efe4327d1a6c116179"
 }
