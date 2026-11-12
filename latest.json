@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "12.0.15",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.15/mypetsphone-12.0.15.apk",
-  "notes": "대화와 마지막 말을 한 카드로 합치고 사진을 더 크게, 펫폰을 만지거나 보고 있어도 업데이트가 바로 설치돼요",
-  "sha256": "8527d5bcd499725337ca01867e21540f39ef442074d5f0efe4327d1a6c116179"
+  "versionCode": 27,
+  "versionName": "12.0.16",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.16/mypetsphone-12.0.16.apk",
+  "notes": "TV·사람 말소리는 거르고 고양이 울음만 알려 줘요, 잠시 끄기 중엔 마이크를 완전히 꺼요",
+  "sha256": "0b0e7b9ea42116000d9e9823cf3f305e2c36577d47ec29bf63a5fe8540b51125"
 }
