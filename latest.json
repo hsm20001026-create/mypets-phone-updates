@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "11.0.11",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v11.0.11/mypetsphone-11.0.11.apk",
-  "notes": "펫폰 발열을 크게 줄였어요: 쉬는 화면은 저절로 꺼지고, 카메라는 필요할 때만 잠깐, 영상은 끝나면 완전히 멈춤. 40℃ 넘으면 카메라·영상 쉬고, 43℃ 넘으면 최소 모드. 30분마다 살아있음 신호, 멈추면 자동으로 다시 켜요.",
-  "sha256": "1dad8b1199e16591f72d6d53cd94b14b67b715ea6d57e51b8ae9a7988962554e"
+  "versionCode": 12,
+  "versionName": "12.0.1",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.1/mypetsphone-12.0.1.apk",
+  "notes": "관심 없으면 방법 바꿔 부르기, 들이대면 스티커 셀카·2초 움짤, 코 뽀뽀 알림, 밤 일기·오늘의 애교왕·주간 귀요미 앨범, 어두운 곳 사진 개선, 검은 화면 가운데 2초 → 설정, 알림 한 개로 묶기, 채팅 항상 최신, 통화 화면 떠나면 5초 뒤 끊기, 통화 뒤 마이크 자동 복구",
+  "sha256": "acd7864ec57aa812c6e449a9a5ad0cbaa0663b4a2f7c90f69dff3f3fc21d652e"
 }
