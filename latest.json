@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "12.0.2",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.2/mypetsphone-12.0.2.apk",
-  "notes": "관심 없으면 방법 바꿔 부르기, 들이대면 스티커 셀카·2초 움짤, 코 뽀뽀 알림, 밤 일기·오늘의 애교왕·주간 귀요미 앨범, 어두운 곳 사진 개선, 검은 화면 가운데 2초 → 설정, 알림 한 개로 묶기, 채팅 항상 최신, 통화 화면 떠나면 5초 뒤 끊기, 통화 뒤 마이크 자동 복구",
-  "sha256": "c231e2ec273a292ae90b1bb5235557667e024e7465ac9984077d8d0a33834961"
+  "versionCode": 14,
+  "versionName": "12.0.3",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.3/mypetsphone-12.0.3.apk",
+  "notes": "울음 감정 분석을 새로 만들었어요(불편해요만 오던 문제 해결), 냥이 말이 더 다양하고 빨리 와요, 빠른 답장 30개와 누르고 말하기, 보고창은 ⓘ를 눌러 보기",
+  "sha256": "39456fe8275ec5b046dc2ef0eb7907da5d031b8d80f81abc98e840fbdeeb2449"
 }
