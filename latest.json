@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "12.0.7",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.7/mypetsphone-12.0.7.apk",
-  "notes": "영상통화 때 화면이 밝은 라이트가 돼서 얼굴이 잘 보여요 (주인폰은 라이트 끄기 버튼)",
-  "sha256": "bf9a07aa3dfd20709e990a1d26c717dbd6677453f8d60f050c8da0bcf5a61113"
+  "versionCode": 19,
+  "versionName": "12.0.8",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.8/mypetsphone-12.0.8.apk",
+  "notes": "알림음이 짧은 냥 한 번으로 바뀌었어요. 이제 새 버전이 나오면 두 폰 모두 바로 자동 업데이트돼요",
+  "sha256": "140ad3a73f6d4841e6e12554d8916321fe515ae280a311a8fb5d756317e9a3a0"
 }
