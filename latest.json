@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "12.0.18",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.18/mycatphone-12.0.18.apk",
-  "notes": "놀이 화면이 꺼져도 사진 보내기, 만지거나 가까이 오면 바로 사진, 놀아주기 영상 매번 새로, 보호자 폰에서 펫폰 소리 크기·잠시 끄기",
-  "sha256": "96f798d3fd2987036c056dd1bf0eaaf7faa70ceb072d314d116327f3a7199fe1"
+  "versionCode": 30,
+  "versionName": "12.0.19",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.19/mycatphone-12.0.19.apk",
+  "notes": "몰래 보기(펫폰 카메라를 소리·벨 없이 5분), 지금 놀아주기 켜기·끄기, 프로필 카드를 대화 카드 위로, 대화 카드 사진은 크게 보기",
+  "sha256": "61be92ff0c57387574c4dfb5bab66dde04e0bc1495e002326990c1689b728dc1"
 }
