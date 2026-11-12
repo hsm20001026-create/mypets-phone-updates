@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "12.0.4",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.4/mypetsphone-12.0.4.apk",
-  "notes": "알림 소리가 아기 고양이 울음으로 바뀌었어요, 화장실 물소리는 이제 무시해요",
-  "sha256": "f4f717b303fdac193f39704bc090e5ae4de9c8dd5ec27ea4787cd85d24ad5bf7"
+  "versionCode": 16,
+  "versionName": "12.0.5",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.5/mypetsphone-12.0.5.apk",
+  "notes": "홈으로 나가면 30분 동안 펫폰 화면이 다시 안 떠요, 재부팅하면 바탕화면 그대로, 펫폰 잠시 끄기 버튼, 손 안 대는 자동 업데이트",
+  "sha256": "f9e692440c769b605e6ec65db78598958b37e98a6c18ba711db263c837703efd"
 }
