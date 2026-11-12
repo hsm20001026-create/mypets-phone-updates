@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "12.0.8",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.8/mypetsphone-12.0.8.apk",
-  "notes": "알림음이 짧은 냥 한 번으로 바뀌었어요. 이제 새 버전이 나오면 두 폰 모두 바로 자동 업데이트돼요",
-  "sha256": "140ad3a73f6d4841e6e12554d8916321fe515ae280a311a8fb5d756317e9a3a0"
+  "versionCode": 20,
+  "versionName": "12.0.9",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.9/mypetsphone-12.0.9.apk",
+  "notes": "영상통화 화면에서 내 얼굴이 상대 영상을 가리지 않아요. 펫폰은 통화 때 주인 얼굴이 세로로 크게 보여요",
+  "sha256": "b684b1e5acc4715cc611f3d1e59261e84401c50a00632990815961a3edc28c61"
 }
