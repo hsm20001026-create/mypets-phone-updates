@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "12.0.12",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.12/mypetsphone-12.0.12.apk",
-  "notes": "잠시 끄기 중엔 알림이 안 와요, 냥이 말만 알림으로, 새 놀아주기 버튼(레이저·쥐 사냥·뽀뽀·지금 모습·내 목소리), 통화 때 얼굴이 크게",
-  "sha256": "f21fd466b67308852fc9082077a075ca15596fac3550ff31fec9c7108e067ee8"
+  "versionCode": 24,
+  "versionName": "12.0.13",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.13/mypetsphone-12.0.13.apk",
+  "notes": "새 버튼 5개를 뺐어요, 알림 소리가 다시 '냥' 한 번, 우리 아이 정보에서 고양이·강아지 선택, 상시 알림은 숨기고 밀어서 지울 수 있어요",
+  "sha256": "855af5ebb7d54ae7d400302634fc468d6095d4e5524e1ac67ae5b5c5971afced"
 }
