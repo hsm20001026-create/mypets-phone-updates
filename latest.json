@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
-  "versionName": "12.0.20",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.20/mycatphone-12.0.20.apk",
-  "notes": "주인폰 화면이 상태바·버튼줄 아래로, 조금 촘촘하게. 프로필 카드 누르면 아이 정보·조용한 시간. 녹음 버튼 아래 설명. 펫에게 해주기: 잠재우기·심장·시냇물 소리(유튜브, 30분)",
-  "sha256": "2ed5cd251b2c81a445cfe7f58a0e533f0d9901202b5a056cab9ad96762e1bfe7"
+  "versionCode": 32,
+  "versionName": "12.0.21",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.21/mycatphone-12.0.21.apk",
+  "notes": "잠겨 있거나 놀이·몰래 보기 중에도 업데이트 바로 설치. 놀아주기 중 몰래 보기 유지. 가로 회전·설치 창에 영상이 바로 꺼지지 않게. 주인폰 아래 빈 색 막대 없앰. '켜는 중' 버튼이 멈추지 않게. 울음 3번이면 사르륵 소리 후, 아이 오면 영상통화.",
+  "sha256": "4b05d4309661d3114da8c05cb76c35235266d4bd723c2a73ff7b24f25b7b0c6c"
 }
