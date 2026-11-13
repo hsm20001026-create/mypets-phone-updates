@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "12.0.25",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.25/mycatphone-12.0.25.apk",
-  "notes": "사진에 왕관·하트·말풍선을 자동으로 붙이지 않아요. 저장·공유는 원본이고, 사진을 좌우로 밀면 이전·다음이 보여요. 아이콘은 따뜻한 주황색이에요.",
-  "sha256": "24556b7b1d5fffac5b42890a7b0bcaf3f6923890123065d5c266609b1bf17de9"
+  "versionCode": 37,
+  "versionName": "12.0.26",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.26/mycatphone-12.0.26.apk",
+  "notes": "큰 울음이 나면 새로운 불러오기 소리로 아이를 부른 뒤, 얼굴을 보면(또는 25초 뒤) 영상통화를 걸어요. 보호자 폰은 기본 전화 벨이 울려요. 사진 밀기 방향도 바꿨어요.",
+  "sha256": "04a87ee6e76acec006302e5f756cc2c60691c08564aa5e1255389d6a68f578ec"
 }
