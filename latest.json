@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "12.0.19",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.19/mycatphone-12.0.19.apk",
-  "notes": "몰래 보기(펫폰 카메라를 소리·벨 없이 5분), 지금 놀아주기 켜기·끄기, 프로필 카드를 대화 카드 위로, 대화 카드 사진은 크게 보기",
-  "sha256": "61be92ff0c57387574c4dfb5bab66dde04e0bc1495e002326990c1689b728dc1"
+  "versionCode": 31,
+  "versionName": "12.0.20",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.20/mycatphone-12.0.20.apk",
+  "notes": "주인폰 화면이 상태바·버튼줄 아래로, 조금 촘촘하게. 프로필 카드 누르면 아이 정보·조용한 시간. 녹음 버튼 아래 설명. 펫에게 해주기: 잠재우기·심장·시냇물 소리(유튜브, 30분)",
+  "sha256": "2ed5cd251b2c81a445cfe7f58a0e533f0d9901202b5a056cab9ad96762e1bfe7"
 }
