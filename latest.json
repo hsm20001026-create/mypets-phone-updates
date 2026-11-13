@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "12.0.21",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.21/mycatphone-12.0.21.apk",
-  "notes": "잠겨 있거나 놀이·몰래 보기 중에도 업데이트 바로 설치. 놀아주기 중 몰래 보기 유지. 가로 회전·설치 창에 영상이 바로 꺼지지 않게. 주인폰 아래 빈 색 막대 없앰. '켜는 중' 버튼이 멈추지 않게. 울음 3번이면 사르륵 소리 후, 아이 오면 영상통화.",
-  "sha256": "4b05d4309661d3114da8c05cb76c35235266d4bd723c2a73ff7b24f25b7b0c6c"
+  "versionCode": 34,
+  "versionName": "12.0.23",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.23/mycatphone-12.0.23.apk",
+  "notes": "앱 이름을 냥폰으로 바꿨어요. 기능은 이전과 같아요.",
+  "sha256": "1fc108af96280bfa385ea7fe5aa5960068daf512bfdfbea62f184b2e5a8de997"
 }
