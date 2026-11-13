@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "12.0.22",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.22/mycatphone-12.0.22.apk",
-  "notes": "오늘 한눈에(울음·움직임·나타난 횟수, 어제와 비교, 시간대 그래프·활동 위치). 오래 울면·낮에 3시간 소식이 없으면 알림. 연기·화재·사이렌 소리 긴급 알림. 아이 앞에 오면 녹음한 목소리. 메인에서 눌러 말하기. 배터리 온도·주변 소음 표시.",
-  "sha256": "568fc990afbf53aa4cfef1c6014c76ac3832c47492f3e4d29731363ae396ca19"
+  "versionCode": 32,
+  "versionName": "12.0.21",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.21/mycatphone-12.0.21.apk",
+  "notes": "잠겨 있거나 놀이·몰래 보기 중에도 업데이트 바로 설치. 놀아주기 중 몰래 보기 유지. 가로 회전·설치 창에 영상이 바로 꺼지지 않게. 주인폰 아래 빈 색 막대 없앰. '켜는 중' 버튼이 멈추지 않게. 울음 3번이면 사르륵 소리 후, 아이 오면 영상통화.",
+  "sha256": "4b05d4309661d3114da8c05cb76c35235266d4bd723c2a73ff7b24f25b7b0c6c"
 }
