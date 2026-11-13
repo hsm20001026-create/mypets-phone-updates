@@ -1,7 +1,7 @@
 {
-  "versionCode": 34,
-  "versionName": "12.0.23",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.23/mycatphone-12.0.23.apk",
-  "notes": "앱 이름을 냥폰으로 바꿨어요. 기능은 이전과 같아요.",
-  "sha256": "1fc108af96280bfa385ea7fe5aa5960068daf512bfdfbea62f184b2e5a8de997"
+  "versionCode": 35,
+  "versionName": "12.0.24",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.24/mycatphone-12.0.24.apk",
+  "notes": "아이가 크게 울면 펫폰이 아이를 부르고 보호자에게 영상통화를 걸어요. 통화 때 제 목소리가 되돌아오던 현상도 줄였어요.",
+  "sha256": "d203c82499f7d4a566a5e42741bafb18c2273ef67ccafeedc5f8783095b4bcb6"
 }
