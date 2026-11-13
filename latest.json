@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "12.0.24",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.24/mycatphone-12.0.24.apk",
-  "notes": "아이가 크게 울면 펫폰이 아이를 부르고 보호자에게 영상통화를 걸어요. 통화 때 제 목소리가 되돌아오던 현상도 줄였어요.",
-  "sha256": "d203c82499f7d4a566a5e42741bafb18c2273ef67ccafeedc5f8783095b4bcb6"
+  "versionCode": 36,
+  "versionName": "12.0.25",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.25/mycatphone-12.0.25.apk",
+  "notes": "사진에 왕관·하트·말풍선을 자동으로 붙이지 않아요. 저장·공유는 원본이고, 사진을 좌우로 밀면 이전·다음이 보여요. 아이콘은 따뜻한 주황색이에요.",
+  "sha256": "24556b7b1d5fffac5b42890a7b0bcaf3f6923890123065d5c266609b1bf17de9"
 }
