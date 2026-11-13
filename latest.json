@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "13.0.2",
-  "apkUrl": "https://github.com/hsm20001026-create/mypetphone-updates/releases/download/v13.0.2/mypetphone-13.0.2.apk",
-  "notes": "스마트 기능을 넣었어요. 홈의 '스마트 기능'에서 건강·안심·추억·놀이·기록을 볼 수 있고, 사진에 스티커를 직접 붙일 수 있어요. Gemini 무료 키를 넣으면 일기·표정 살펴보기가 더 똑똑해져요.",
-  "sha256": "0b66e0369b940cfa037da0f1fd48597b620a406e5f83819d991254e42681ba38"
+  "versionCode": 34,
+  "versionName": "12.0.23",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.23/mycatphone-12.0.23.apk",
+  "notes": "앱 이름을 냥폰으로 바꿨어요. 기능은 이전과 같아요.",
+  "sha256": "1fc108af96280bfa385ea7fe5aa5960068daf512bfdfbea62f184b2e5a8de997"
 }
