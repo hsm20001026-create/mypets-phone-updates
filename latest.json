@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "12.0.27",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.27/mycatphone-12.0.27.apk",
-  "notes": "놀아주기하면 먼저 불러오기 소리와 밝은 화면으로 고양이를 부른 뒤, 카메라에 얼굴이 보이면 빠른 바퀴벌레 사냥을 시작해요. 안 오면 30초 뒤 벌레를 풀어 두고 계속 불러요. 놀아주기 버튼이 저절로 다시 켜지던 문제도 고쳤어요.",
-  "sha256": "b93cdd0a8799e068f8cc98dec78f24829f529e563eeb0b9422e510f83051eaed"
+  "versionCode": 39,
+  "versionName": "12.0.28",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.28/mycatphone-12.0.28.apk",
+  "notes": "하루 약 네 번, 고양이가 잘 움직이는 시간에 불러오기 소리와 벌레 화면으로 관심을 끈 뒤 사진 2~3장을 묶어 보내요. 가까운 사진 간격은 2분이고, 하루 한도는 약 15장이에요. 설치 확인 창은 같은 버전에서 한 번만 띄워요.",
+  "sha256": "044f3617e6cdee69cdb85c9796a99fa4b8e2b43ce833dd187a9e4d43a0cdfcc6"
 }
