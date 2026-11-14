@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "12.0.26",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.26/mycatphone-12.0.26.apk",
-  "notes": "큰 울음이 나면 새로운 불러오기 소리로 아이를 부른 뒤, 얼굴을 보면(또는 25초 뒤) 영상통화를 걸어요. 보호자 폰은 기본 전화 벨이 울려요. 사진 밀기 방향도 바꿨어요.",
-  "sha256": "04a87ee6e76acec006302e5f756cc2c60691c08564aa5e1255389d6a68f578ec"
+  "versionCode": 38,
+  "versionName": "12.0.27",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.27/mycatphone-12.0.27.apk",
+  "notes": "놀아주기하면 먼저 불러오기 소리와 밝은 화면으로 고양이를 부른 뒤, 카메라에 얼굴이 보이면 빠른 바퀴벌레 사냥을 시작해요. 안 오면 30초 뒤 벌레를 풀어 두고 계속 불러요. 놀아주기 버튼이 저절로 다시 켜지던 문제도 고쳤어요.",
+  "sha256": "b93cdd0a8799e068f8cc98dec78f24829f529e563eeb0b9422e510f83051eaed"
 }
