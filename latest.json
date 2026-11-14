@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "12.0.30",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.30/mycatphone-12.0.30.apk",
-  "notes": "근거 없는 상상 문구를 없앴어요. 울음·사진·놀이는 실제로 확인된 사실만 보내요.",
-  "sha256": "26fcc140617c119dd5e3297076019255d8dc0dc6d70d8b86a058419736d9f501"
+  "versionCode": 42,
+  "versionName": "12.0.31",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.31/mycatphone-12.0.31.apk",
+  "notes": "자동 설치가 잠금·재시도에 끊기지 않게 고쳤어요. 펫폰을 직접 꺼 두면 다시 켤 때까지 꺼진 채로 유지돼요.",
+  "sha256": "39479ebc5693e4d2f3ac844d1ac09f5bf8505571be0c64d3d923970c844eb93f"
 }
