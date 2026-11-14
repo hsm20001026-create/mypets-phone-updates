@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "12.0.28",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.28/mycatphone-12.0.28.apk",
-  "notes": "하루 약 네 번, 고양이가 잘 움직이는 시간에 불러오기 소리와 벌레 화면으로 관심을 끈 뒤 사진 2~3장을 묶어 보내요. 가까운 사진 간격은 2분이고, 하루 한도는 약 15장이에요. 설치 확인 창은 같은 버전에서 한 번만 띄워요.",
-  "sha256": "044f3617e6cdee69cdb85c9796a99fa4b8e2b43ce833dd187a9e4d43a0cdfcc6"
+  "versionCode": 40,
+  "versionName": "12.0.29",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.29/mycatphone-12.0.29.apk",
+  "notes": "자동 업데이트가 막히던 문제를 고쳤어요. 정해진 시간 사진은 고양이 인식 없이 2~3장씩, 하루 10장쯤 보내요.",
+  "sha256": "621bbe0264af34205ff8bc2c752f264439f20fe8863f31f8e5eb240f94e02077"
 }
