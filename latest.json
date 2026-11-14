@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "12.0.29",
-  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.29/mycatphone-12.0.29.apk",
-  "notes": "자동 업데이트가 막히던 문제를 고쳤어요. 정해진 시간 사진은 고양이 인식 없이 2~3장씩, 하루 10장쯤 보내요.",
-  "sha256": "621bbe0264af34205ff8bc2c752f264439f20fe8863f31f8e5eb240f94e02077"
+  "versionCode": 41,
+  "versionName": "12.0.30",
+  "apkUrl": "https://github.com/hsm20001026-create/mypets-phone-updates/releases/download/v12.0.30/mycatphone-12.0.30.apk",
+  "notes": "근거 없는 상상 문구를 없앴어요. 울음·사진·놀이는 실제로 확인된 사실만 보내요.",
+  "sha256": "26fcc140617c119dd5e3297076019255d8dc0dc6d70d8b86a058419736d9f501"
 }
